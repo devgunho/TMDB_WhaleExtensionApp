@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "인기영화(TMDB)",
+  "version": "1.0.0",
+
+  "description": "영화 검색 사이드바 확장앱",
+  "sidebar_action": {
+    "default_title": "TMDB",
+    "default_icon": {
+      "16": "./icons/TMDB_icon.png",
+      "32": "./icons/TMDB_icon.png"
+    },
+    "default_page": "src/index.html",
+    "use_navigation_bar": true,
+    "mobile_user_agent": true
+  }
+}
+
