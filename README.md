@@ -20,3 +20,8 @@
 
 <br/>
 
+### Reference
+
+- [The Movie Database (TMDb)](https://www.themoviedb.org/?language=ko-KR)
+  - The Movie Database (TMDb) is a popular, user editable database for movies and TV shows.
+
