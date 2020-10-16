@@ -7,7 +7,7 @@
 
 <p align="center">
     <img src="README.assets/store.png"/>
-    <div align="center">Naver Whale Store (21.06.01.)<div/>
+<div align="center">Naver Whale Store (21.06.01.)</div>
 </p>
 
 <br/>
@@ -17,11 +17,9 @@
 <p align="center">
     <img src="README.assets/init-deploy.png"/>
 </p>
-
 <br/>
 
 ### Reference
 
 - [The Movie Database (TMDb)](https://www.themoviedb.org/?language=ko-KR)
   - The Movie Database (TMDb) is a popular, user editable database for movies and TV shows.
-
